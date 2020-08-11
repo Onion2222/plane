@@ -9,10 +9,10 @@ Pour l'instant, le programme n'a été testé que sur Bash, veuillez toutefois f
 Vous êtes au contrôle d'un avion embarquant 500 obus. Le but du jeu est de détruire tout les vehicules ennemis au sol en les bombardant.
 
 Controle:
-- Fleches pour contrôler l'avion
-- Espace pour lacher une bombe
-- r pour regenerer le terrain
-- F1 pour afficher le debug
+- **Touches Directionnelles** pour contrôler l'avion
+- **Espace** pour lacher une bombe
+- **r** pour regenerer le terrain
+- **F1** pour afficher le debug
 
 ## Installation
 Vous avez besoin de la bibliotheque ncurse pour compiler le programme.
