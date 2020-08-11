@@ -19,10 +19,10 @@ Vous avez besoin de la bibliothèque ncurse pour compiler le programme.
 ### Ubuntu (apt-get):
 Installer ncurses:
 ```
-sudo apt-get install libncurses5-dev libncursesw5-dev
+$ sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
 Compiler:
 ```
-Make
+$ Make
 ```
 Et voilà.
